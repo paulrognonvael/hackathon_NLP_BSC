@@ -25,7 +25,7 @@
 - Assist medical professionals in designing an adequate response to a new patient case.
 
 ## How do we do it? An overview
-
+![](overview_model.jpg)
 
 ## How do we do it? Some technical details
 
@@ -41,7 +41,7 @@ We first pre-process our data by tokenizing, stemming, removing stop words, very
 ## Some initial results
 
 ***Clearly defined clusters***  
-
+![](clusters.png)
 ***Informative clusters***  
 - Our algorithm differentiates COVID-19 related clusters of cases from non-COVID-19 related clusters.  In 3 clusters, COVID-19  is the most dominant and second most dominant topic.
 - In 1 of those clusters, kidney diseases and male gender are two other salient traits in the dominant topics.
