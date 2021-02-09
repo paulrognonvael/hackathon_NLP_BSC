@@ -1,6 +1,8 @@
 # bitsxlaMarato Hackathon - Clinical text similarity Challenge
 # COVID-CaseExplore
 
+Contributors: Paul Rognon, Diego Torres Dho
+
 ## The Challenge
 
 - Today, we have a huge amount of clinical records. One of the main types is text in the form of clinical cases.
