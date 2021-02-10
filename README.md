@@ -3,6 +3,13 @@
 
 Contributors: Paul Rognon, Diego Torres Dho
 
+### Watch the video on Barcelona Supercomputing Center's Youtube channel
+https://youtu.be/BIXe51fdDCA
+
+### Check the full presentation
+Covid_CaseExplore.pdf
+
+
 ## The Challenge
 
 - Today, we have a huge amount of clinical records. One of the main types is text in the form of clinical cases.
