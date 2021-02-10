@@ -6,8 +6,8 @@ Contributors: Paul Rognon, Diego Torres Dho
 ### Watch the video on Barcelona Supercomputing Center's Youtube channel
 https://youtu.be/BIXe51fdDCA
 
-### Check the full presentation
-Covid_CaseExplore.pdf
+### Check the full presentation [here](Covid_CaseExplore.pdf)
+
 
 
 ## The Challenge
