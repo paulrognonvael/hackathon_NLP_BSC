@@ -1,6 +1,15 @@
 # bitsxlaMarato Hackathon - Clinical text similarity Challenge
 # COVID-CaseExplore
 
+Contributors: Paul Rognon, Diego Torres Dho
+
+### Watch the video on Barcelona Supercomputing Center's Youtube channel
+https://youtu.be/BIXe51fdDCA
+
+### Check the full presentation
+Covid_CaseExplore.pdf
+
+
 ## The Challenge
 
 - Today, we have a huge amount of clinical records. One of the main types is text in the form of clinical cases.
@@ -17,10 +26,12 @@
 - Beyond pairwise similarity, clusters help characterizing the similarity of cases.
 - New cases can be assigned to a group for decision-making.
 
-## Our idea: possible use cases
+## Possible applications
 
-- Find subtypes of COVID-19 cases that can be characterized by severity, progression speed, symptomes or other traits.
+***Knowledge discovery***
 - Find comorbidities as other types of disease can appear to characterize a cluster of COVID-19 cases.
+- Find subtypes of COVID-19 cases that can be characterized by severity, progression speed, symptomes or other traits. 
+***Taking decisions***
 - Assist medical professionals in triage by assigning a new case to a cluster characterized by the severity.
 - Assist medical professionals in designing an adequate response to a new patient case.
 
@@ -46,7 +57,6 @@ We first pre-process our data by tokenizing, stemming, removing stop words, very
 - Our algorithm differentiates COVID-19 related clusters of cases from non-COVID-19 related clusters.  In 3 clusters, COVID-19  is the most dominant and second most dominant topic.
 - In 1 of those clusters, kidney diseases and male gender are two other salient traits in the dominant topics.
 - 1 of those clusters is highly related with cancer terms along with COVID-19.
-- The last one combines COVID-19, kidney and cancer as dominant topics.
 
 
 ## What's next for COVID-CaseExplore?
